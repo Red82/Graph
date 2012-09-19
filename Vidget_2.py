@@ -14,6 +14,7 @@ class ButtonSend:
         print('Send Send Send')
 
 root = Tk()
+root.geometry("300x500")
 
 #RadioButtons
 var = IntVar()
